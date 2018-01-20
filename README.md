@@ -17,3 +17,4 @@ nic
 
 
 *praca*
+modyfikujemy
